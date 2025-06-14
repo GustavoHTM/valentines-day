@@ -1,0 +1,98 @@
+Monday:0:Preciso tomar banho logo e ir dormir direito hoje
+Monday:1:To ferrado pra dormir agora, dormi tudo errado fim de semana
+Monday:3:Acho que agora consigo dormir
+Monday:7:Não quero sair da cama...
+Monday:8:Segunda-feira, isso ta começando novamente...
+Monday:9:Eita! esqueci da daily pqp
+Monday:10:Meio da manhã, cabou a daily e já não sei mais o que fazer, quero enrolar >.<
+Monday:11:Hora do almoço ta chegando será que vou comer com o pessoal ou vou pra academia?
+Monday:13:Voltando do almoço, agora é hora de descansar mais um pouquinho e voltar a trabalhar
+Monday:15:Vontade de tomar um achocolatado
+Monday:18:Fim do expediente, quero ir ver a rosa pra comermos algo gostoso
+Monday:19:Por que Deus inventou a faculdade?
+Monday:21:Aula acabando finalmente, que aula de merda chata demais pqp
+Monday:22:Hora de ir pra casa, não vejo a hora de chegar
+Monday:23:Cheguei em casa, agora é hora de relaxar e jogar algo
+
+Tuesday:0:Preciso tomar banho agora e ir dormir cedo hoje
+Tuesday:1:Finalmente na cama, amanhã tem aquela reunião chata com Mauá
+Tuesday:7:Acordei cedo, agora acho que consigo corrigir meu sono
+Tuesday:8:Terça-feira, dia de reunião que eu não quero ir
+Tuesday:9:Que ódio dessa reunião com Mauá, vai ser um saco
+Tuesday:10:Essa reunião não acaba nunca, pelo amor de Deus
+Tuesday:11:Almoço ou academia? Difícil escolher depois dessa manhã bosta
+Tuesday:13:Voltei, mas ainda tenho que dar suporte pra Mauá, que saco
+Tuesday:14:Ainda dando suporte, não consigo codar nada assim
+Tuesday:15:FINALMENTE posso codar! Que alívio poder voltar ao trabalho de verdade
+Tuesday:18:Hora de encontrar minha rosa e esquecer esse dia chato
+Tuesday:19:Que bom não ter aula hoje, quero chegar logo em casa e jogar com o Jez
+Tuesday:21:Fazendo trabalho da faculdade, pelo menos não é reunião
+Tuesday:23:Relaxando vendo uns reels depois desse dia
+
+Wednesday:0:Hora do banho e dormir, meio da semana já
+Wednesday:1:Bora dormir que tenho que tentar manter meu sono minimamente regulado
+Wednesday:7:Não posso perder o onibus, tenho que correr
+Wednesday:8:Meio da semana, vamos ver no que vai dar
+Wednesday:9:Daily bosta, agora é focar no trabalho
+Wednesday:11:Acho que vou na academia hoje
+Wednesday:13:to cansado mas to cheio de coisa pra fazer...
+Wednesday:14:Meio da semana e já estão me pedindo um monte de coisa aleatória
+Wednesday:15:Que vontade de tomar um achocolatado e se matar
+Wednesday:18:Partiu encontrar a rosa pra comer algo gostoso e fazer piada que vou comer ela hehehe
+Wednesday:19:Aula de quarta, pelo menos é uma aula fodase
+Wednesday:22:Em casa finalmente, agora posso fazer um grande nada
+Wednesday:23:Vou jogar até meia-noite e dormir cedo hoje
+
+Thursday:0:Banho rápido e dormir, amanhã quero tentar codar normal um pouco
+Thursday:1:Tenho que responder os reels e dormir...
+Thursday:7:Quinta-feira! Dia de codar sem reunião chata
+Thursday:8:Que delícia não ter daily nem reunião, só código puro
+Thursday:9:Fazendo code review, não gosto muito mas faz parte
+Thursday:10:mds quanto chamado pra revisar pqp
+Thursday:11:Almoço ou academia? Hoje to animado e meu gymbro não vem, acho que vou com os amigos
+Thursday:13:Preguiça, mas agora é hora de codar bastante
+Thursday:15:Meu achocolatado sagrado pra acalmar a mente depois de tanto código
+Thursday:18:Agora é hora de ir ver a rosa
+Thursday:19:Aula de quinta, chatona pqp só quero conversar
+Thursday:22:Professora filha da puta segura até o ultimo momento
+Thursday:23:Vendo uns vídeos até meia-noite, merecido
+
+Friday:0:pqp tenho que banhar
+Friday:1:ultima dormidinha fudida onde tenho que acordar cedo
+Friday:7:bora trabaiar, cadê o onibus?
+Friday:8:Aiai, que que eu codo hoje?
+Friday:9:Daily de sexta, até na sexta tem essa bosta
+Friday:10:Finalmente daily acabou, bora trabaiar, ultimo dia da semana
+Friday:11:Almoço ou academia? Acho que academia
+Friday:13:Tarde de sexta sem chefe, hora da zona e depois eu volto a codar
+Friday:14:Papear é tão bom em, sexta-feira é foda
+Friday:15:Tenho que pegar meu achocolatado e aproveitar pra zuar a glr do RH
+Friday:16:Mó vontade de conversar kkkk os chefes não tão
+Friday:17:Carai dia ta acabando e não codei quase nada, bora tentar fazer o mínimo
+Friday:18:Ta na hora de ir no shopping ver a rosa
+Friday:19:Última aula da semana, amem
+Friday:21:Bora pra casa que hoje é dia de gameplay
+Friday:22:Descansar um pouco antes de ir pra gameplay
+
+Saturday:0:Hora de jogar com a rapaziada
+Saturday:3:Pqp sou muito bom jogando, pai carrega muito
+Saturday:5:Hora de mimir com minha momolada, ela é perfeita aí dormindo toda desmaiada
+Saturday:13:Acordei com minha princesa, o que será que vamos comer?
+Saturday:14:O que vamos assistir hoje? Tantas opções e eu não faço ideia
+Saturday:15:Meio cansado de prestar atenção, preciso mexer no celular
+Saturday:16:To com vontade de fuder, será que hoje é especial? tomo azulzinho para arregaçar ela?
+Saturday:18:Que fome! O que vamos comer hoje?
+Saturday:20:Bem gostoso o que estamos comendo, mas foda ter que gastar :(
+Saturday:21:Que bom que ela dorme aqui, não preciso levar pra casa
+Saturday:23:Bora assistir algo leve coladinho >.<
+
+Sunday:0:Tô ficando com sono, mas não quero desapontar ela e deixar ela sozinha
+Sunday:3:Bora dormir juntinhos e quentinho, isso é perfeito
+Sunday:13:Acordei, o que será que vamos almoçar?
+Sunday:14:Será que hoje vamos assistir algo ou dar um role?
+Sunday:15:Minha bateria de atenção ta cabando, preciso me distrair
+Sunday:16:Vontade de comer ela, será que ela topa?
+Sunday:18:Precisamos comer logo porque tenho que levar ela pra casa
+Sunday:20:Preciso levar ela pra casa
+Sunday:22:Como será que a rosa tá? o que será que ta fazendo? não sei mas vou jogar
+Sunday:23:Sou muito bom no brawlhalla seloko, mas pqp q jogo merda, não sei pq jogo isso com o jez

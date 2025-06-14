@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_dica"
+        android:icon="@drawable/ic_heart_tip"
+        android:title="Dica do Dia" />
+
+    <item
+        android:id="@+id/nav_inseguranca"
+        android:icon="@drawable/ic_heart_love"
+        android:title="Você me ama?" />
+
+    <item
+        android:id="@+id/nav_pensamento"
+        android:icon="@drawable/ic_heart_thought"
+        android:title="Pensamento" />
+
+</menu>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/heart_background"
+    android:padding="20dp">
+
+    <!-- Corações flutuantes -->
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/heart_small"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="30dp"
+        android:alpha="0.7" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/heart_small"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="50dp"
+        android:alpha="0.5" />
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/heart_small"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:alpha="0.6" />
+
+    <!-- Título principal -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/big_heart"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Para minha momolada"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#E91E63"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kamilly"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="#C2185B"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="40dp" />
+
+        <Button
+            android:id="@+id/btnProsseguir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prosseguir"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/heart_button"
+            android:padding="15dp"
+            android:minWidth="150dp" />
+    </LinearLayout>
+
+    <!-- Mais corações decorativos -->
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/heart_small"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginStart="40dp"
+        android:alpha="0.4" />
+
+    <ImageView
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:src="@drawable/heart_small"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="150dp"
+        android:layout_marginEnd="60dp"
+        android:alpha="0.6" />
+
+</RelativeLayout>
